@@ -6,8 +6,8 @@ This project implements and compares the performance of PPO, DQN, and A2C algori
 
 1. **Clone the Repository**:
 ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/namrapatel/PPO 
+   cd PPO
 ```
 
 2. **Install Dependencies**: Ensure you have Python 3.8+ installed. Then, install the required packages:
